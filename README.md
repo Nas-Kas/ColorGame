@@ -6,4 +6,4 @@ RGB (red, green, and blue) refers to a system for representing the colors to be 
 Red, green, and blue can be combined in various proportions to obtain any color in the visible spectrum. 
 Levels of R, G, and B can each range from 0 to 255
 
-Click on the color at the top that matches one of the six colors below
+Click on one of the six colors in the middle of the website to match the color at the top :^)
